@@ -38,11 +38,13 @@ export default {
     width: 127px;
     img {
       display: block;
+      height: 100%;
       width: 100%;
     }
   }
   .right {
     flex: 1;
+    margin-left: 10px;
     font-size: 14px;
     line-height: 1.3;
     padding: 10px;
