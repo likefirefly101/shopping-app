@@ -1,17 +1,12 @@
 <template>
   <div id="app">
-
-    <router-view/>
+    我是list
   </div>
 </template>
 
 <script>
 export default {
-  data () {
-    return {
-
-    }
-  }
+  name: 'ListIndex'
 }
 </script>
 <style lang="less">

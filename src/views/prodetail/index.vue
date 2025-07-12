@@ -1,17 +1,12 @@
 <template>
   <div id="app">
-
-    <router-view/>
+    我是prodetail页面
   </div>
 </template>
 
 <script>
 export default {
-  data () {
-    return {
-
-    }
-  }
+  name: 'ProDetailIndex'
 }
 </script>
 <style lang="less">

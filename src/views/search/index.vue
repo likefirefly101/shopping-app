@@ -1,17 +1,12 @@
 <template>
   <div id="app">
-
-    <router-view/>
+    我是search
   </div>
 </template>
 
 <script>
 export default {
-  data () {
-    return {
-
-    }
-  }
+  name: 'SearchIndex'
 }
 </script>
 <style lang="less">
