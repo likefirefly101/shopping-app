@@ -38,6 +38,7 @@ export default {
     width: 127px;
     img {
       display: block;
+      height: 100%;
       width: 100%;
     }
   }
