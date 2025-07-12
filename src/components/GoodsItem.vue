@@ -44,7 +44,7 @@ export default {
   }
   .right {
     flex: 1;
-    margin-left: 10px;
+    margin-left: 20px;
     font-size: 14px;
     line-height: 1.3;
     padding: 10px;
